@@ -6,7 +6,7 @@
 
 <h3>👩‍💻 About Me : </h3>
 
-- 😺 Working on FrontEnd and BackEnd on WEB** .
+- 😺 Working on FrontEnd and BackEnd on **WEB** .
 
 - 💬 Ask me about **Anything :D** .
 
