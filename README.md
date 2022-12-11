@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Armin Sayar</h1>
 <h3 align="center">A WEB Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arminsayar&label=Profile%20views&color=0e75b6&style=flat" alt="Meow!" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Armin-Sayar-red" alt="Meow!"/></p>
+
 <h3>👩‍💻 About Me : </h3>
 
 - 😺 Working on FrontEnd and BackEnd on WEB** .
@@ -13,12 +15,8 @@
 - 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/arminsayar/) page.
 
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://arminsayar.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevergeon" height="30" width="40" /></a>
-</p> -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 
 </br>
@@ -44,17 +42,16 @@
 
 
 
-
 </br>
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
-<a href="https://github.com/Thevergeon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thevergeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thevergeon&layout=compact&langs_count=10&hide=html&theme=algolia"/>
+<a href="https://github.com/arminsayar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arminsayar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arminsayar&layout=compact&langs_count=10&hide=html&theme=algolia"/>
 </a>
 </p>
 <h2>🔒 Github Streak:</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevergeon&" alt="thevergeon" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arminsayar&" alt="meow!" /></p>
 
 
