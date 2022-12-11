@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Zahra Barghamadi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Armin Sayar</h1>
+<h3 align="center">A WEB Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
 <h3>👩‍💻 About Me : </h3>
 
-- 🌱 I’m currently learning **React ,Vue ,TypeScript ,Git** .
+- 😺 Working on FrontEnd and BackEnd on WEB** .
 
-- 💬 Ask me about **Html ,CSS(Sass) ,JavaScript , jQuery** .
+- 💬 Ask me about **Anything :D** .
 
-- 📫 How to reach me **barqamadizahra@gmail.com** .
+- 📫 How to reach me **https://arminsayar.ir** .
 
-- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) page.
+- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/arminsayar/) page.
 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thevergeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevergeon" height="30" width="40" /></a>
+<a href="https://arminsayar.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevergeon" height="30" width="40" /></a>
 </p> -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
