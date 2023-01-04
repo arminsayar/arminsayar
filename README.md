@@ -51,7 +51,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arminsayar&layout=compact&langs_count=10&hide=html&theme=algolia"/>
 </a>
 </p>
-<h2>🔒 Github Streak:</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arminsayar&" alt="meow!" /></p>
+
 
 
