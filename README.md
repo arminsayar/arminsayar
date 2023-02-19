@@ -14,8 +14,8 @@ class Bio extends FrontEndDeveloper {
   name     = 'Armin Sayar';
   title    = 'Front-End Developer';
   location = 'Tehran, Iran';
-  linkedIn = socialMediaAccounts(linkedin.com/in/arminsayar/);
-  portfolio = socialMediaAccounts(arminsayar.ir/);
+  linkedIn = socialMediaAccounts('linkedin.com/in/arminsayar/');
+  portfolio = socialMediaAccounts('arminsayar.ir/');
 }
 
 class Skills extends FrontEndDeveloper {
