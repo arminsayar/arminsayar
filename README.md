@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armin Sayar</h1>
 <h3 align="center">A WEB Developer</h3>
-
+</br>
 ```js
 import {FrontEndDeveloper, Other} from 'arminsayar';
 
@@ -32,17 +32,6 @@ class Skills extends Other {
   devOps = ['Docker', 'Nginx'];
 }
 ```
-
-</br>
-</br>
-
-<h2>⚙️ &nbsp;GitHub Analytics</h2>
-<p align="center">
-<a href="https://github.com/arminsayar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arminsayar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arminsayar&layout=compact&langs_count=10&hide=html&theme=algolia"/>
-</a>
-</p>
 
 
 
